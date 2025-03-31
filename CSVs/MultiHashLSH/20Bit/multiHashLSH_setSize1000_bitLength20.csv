@@ -1,0 +1,9 @@
+Function,multiHashLSH
+SetSize,1000
+BitLength,20
+Run,Time(us),Succeeded
+0,2852,1
+1,2778,1
+2,3303,1
+3,3024,1
+4,3149,1
