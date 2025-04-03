@@ -1,0 +1,9 @@
+Function,bruteForce
+SetSize,250
+BitLength,20
+Run,Time(us)
+0,3953
+1,3815
+2,3865
+3,4255
+4,3904
